@@ -102,6 +102,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Node.js
 
+* [rest-hapi](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
 * [node-restify](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
 * [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
